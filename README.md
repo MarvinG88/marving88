@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marvin
 - 👀 I’m interested in web development, web design, programming, scripting and networking.
 - 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on nothing at the moment because I am still learning the basics.
+- 💞️ I’m not looking to collaborate at the moment because I am still learning the basics.
 - 📫 How to reach me, via email at marving@yhosoul.co.za.
 
 <!---
